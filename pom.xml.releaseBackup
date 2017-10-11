@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>net.jakubpas</groupId>
     <artifactId>pardot-api-client</artifactId>
-    <version>0.1.1</version>
+    <version>0.1.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
     <!-- Require Maven 3.3.9 -->
@@ -35,11 +37,10 @@
 
     <!-- Source Control -->
     <scm>
-        <connection>scm:git:git@github.com/jakubpas/pardot-java-client.git</connection>
+        <connection>scm:git:git@github.com:jakubpas/pardot-java-client.git</connection>
         <developerConnection>scm:git:ssh://github.com:jakubpas/pardot-java-client.git</developerConnection>
         <url>https://github.com/jakubpas/pardot-java-client/tree/master</url>
-      <tag>pardot-api-client-0.1.1</tag>
-  </scm>
+    </scm>
 
     <!-- Module Properties -->
     <properties>
