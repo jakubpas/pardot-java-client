@@ -26,7 +26,7 @@ public class Configuration {
 
     // If you want to override the Pardot API url
     private String pardotApiHost = "https://pi.pardot.com/api";
-    private String pardotApiVersion = "3";
+    private String pardotApiVersion = "4";
 
     /**
      * Constructor.
