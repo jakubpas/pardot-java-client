@@ -1,4 +1,4 @@
-# Pardot Java API Client
+# Pardot Java API version 4 Client
 
 [![Build Status](https://travis-ci.org/Crim/pardot-java-client.svg?branch=master)](https://travis-ci.org/Crim/pardot-java-client)
 
