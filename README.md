@@ -18,11 +18,11 @@ requesting it.
 This client library is released on Maven Central.  Add a new dependency to your project's POM file:
 
 ```xml
-<dependency>
-    <groupId>com.darksci</groupId>
-    <artifactId>pardot-api-client</artifactId>
-    <version>0.1.1</version>
-</dependency>
+        <dependency>
+            <groupId>net.jakubpas</groupId>
+            <artifactId>pardot-api-client</artifactId>
+            <version>0.1.6</version>
+        </dependency>
 ```
 
 Example Code:
